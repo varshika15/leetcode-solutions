@@ -4,3 +4,11 @@ Starting a new project which will provide the solutions to the leetcode problems
 
 ## Tip 1
 Most important task during the interview is to think of the different test case scenario that will be applied to the problem. Here we will come up with as many test case for the particular to make it flawless solution.
+
+
+## Solution Lists
+
+[](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/JewelsNStones.java)
+
+
+
