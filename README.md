@@ -8,7 +8,7 @@ Most important task during the interview is to think of the different test case 
 
 ## Solution Lists
 
-[](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/JewelsNStones.java)
+[https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/JewelsNStones.java]()
 
 
 
