@@ -7,6 +7,6 @@ Starting a new project which will provide the solutions to the leetcode problems
 ### Easy 
 
 - [JewelsNStones](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/JewelsNStones.java)
-
+- [UniqueMorseRepresentations](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/UniqueMorseRepresentation.java)
 
 
