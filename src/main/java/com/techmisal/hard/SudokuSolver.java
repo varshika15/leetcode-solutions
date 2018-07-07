@@ -111,7 +111,7 @@ public class SudokuSolver {
 		return 0;
 	}
 
-/*	private char[][] getSampleBoard() throws IOException {
+	private char[][] getSampleBoard() throws IOException {
 		char[][] board = new char[9][9];
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		String line;
@@ -139,5 +139,5 @@ public class SudokuSolver {
 		char[][] board = obj.getSampleBoard();
 		obj.solveSudoku(board);
 		obj.printBoard(board);
-	}*/
+	}
 }

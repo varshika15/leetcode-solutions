@@ -109,32 +109,23 @@ public class ValidSudoku {
 		return 0;
 	}
 
-//	private char[][] getSampleBoard() throws IOException {
-//		char[][] board = new char[9][9];
-//		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-//		String line;
-//		int row = 0;
-//		while(row < 9 && (line = br.readLine()) != null) {
-//			for(int i = 0; i < 9; i++) {
-//				board[row][i] = line.charAt(i);
-//			}
-//			row++;
-//		}
-//		return board;
-//	}
-//	
-//	private void printBoard(char[][] board) {
-//		for(int i = 0; i < 9; i++) {
-//			for(int j = 0; j < 9; j++) {
-//				System.out.print(board[i][j] + " ");
-//			}
-//			System.out.println();
-//		}
-//	}
-//
-//	public static void main(String[] args) throws IOException {
-//		ValidSudoku obj = new ValidSudoku();
-//		char[][] board = obj.getSampleBoard();
-//		System.out.println(obj.isValidSudoku(board));
-//	}
+	private char[][] getSampleBoard() throws IOException {
+		char[][] board = new char[9][9];
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		String line;
+		int row = 0;
+		while(row < 9 && (line = br.readLine()) != null) {
+			for(int i = 0; i < 9; i++) {
+				board[row][i] = line.charAt(i);
+			}
+			row++;
+		}
+		return board;
+	}
+
+	public static void main(String[] args) throws IOException {
+		ValidSudoku obj = new ValidSudoku();
+		char[][] board = obj.getSampleBoard();
+		System.out.println(obj.isValidSudoku(board));
+	}
 }

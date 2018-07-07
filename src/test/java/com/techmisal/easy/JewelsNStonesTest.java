@@ -1,4 +1,4 @@
-package com.techmisal;
+package com.techmisal.easy;
 
 
         import com.techmisal.easy.JewelsNStones;
