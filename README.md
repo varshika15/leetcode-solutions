@@ -12,3 +12,10 @@ Starting a new project which will provide the solutions to the leetcode problems
 - [UniqueMorseRepresentations](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/UniqueMorseRepresentation.java)
 
 
+### Medium
+
+- [ValidSudoku](https://github.com/harmishlakhani/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/ValidSudoku.java)
+
+### Hard
+
+- [SudokuSolver](https://github.com/harmishlakhani/leetcode-solutions/blob/master/src/main/java/com/techmisal/hard/SudokuSolver.java)
