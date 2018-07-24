@@ -9,13 +9,17 @@ Stop thinking start contributing to leetcode solution
 ### Easy 
 
 - [JewelsNStones](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/JewelsNStones.java)
-- [UniqueMorseRepresentations](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/UniqueMorseRepresentation.java)
+- [ValidAnagram](https://github.com/harmishlakhani/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/ValidAnagram.java)
+- [FindAllAnagramsInString](https://github.com/harmishlakhani/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/FindAllAnagramsInString.java)
 - [TransposeMatrix](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/TransposeMatrix.java)
+- [LowerCase](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/LowerCase.java)
+
 
 
 ### Medium
 
 - [ValidSudoku](https://github.com/harmishlakhani/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/ValidSudoku.java)
+- [GroupAnagrams](https://github.com/harmishlakhani/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/GroupAnagrams.java)
 
 ### Hard
 
