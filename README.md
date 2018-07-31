@@ -14,7 +14,7 @@ Stop thinking start contributing to leetcode solution
 - [TransposeMatrix](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/TransposeMatrix.java)
 - [LowerCase](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/LowerCase.java)
 - [HammingDistance](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/HammingDistance.java)
-
+- [MiddleElementInLinkedList](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/easy/MiddleElement.java)
 
 
 ### Medium
