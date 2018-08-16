@@ -37,7 +37,7 @@ public class JudgeCircle {
                 X--;
             if(moves.charAt(i)=='L')
                 Y--;
-            else
+            if(moves.charAt(i)=='R')
                 Y++;
 
         }
