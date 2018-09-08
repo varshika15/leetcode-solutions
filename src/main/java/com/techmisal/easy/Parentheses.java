@@ -46,17 +46,20 @@ public class Parentheses {
         Stack<String> stack = new Stack<>();
 
 
+        int pushCount = 0, popCount=0;
+
 
         for(int i=0;i<str.length();i++) {
 
             if(str.charAt(i)=='('){
                 stack.push(")");
+                pushCount++;
             }else if(str.charAt(i) == '['){
                 stack.push("]");
+                pushCount++;
             }else if(str.charAt(i) == '{'){
                 stack.push("}");
-            }else if(str.charAt(i) != ')' || str.charAt(i) != '}' || str.charAt(i)!=']'){
-                return false;
+                pushCount++;
             }
 
 
@@ -65,6 +68,8 @@ public class Parentheses {
                     if(!stack.pop().equals(""+str.charAt(i))){
                         return false;
                     }
+
+                    popCount++;
 
                 }else{
                     return false;
@@ -76,6 +81,11 @@ public class Parentheses {
 
 
         if(!stack.empty()){
+            return false;
+        }
+
+
+        if(pushCount== 0 && popCount == 0){
             return false;
         }
 
