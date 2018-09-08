@@ -48,6 +48,10 @@ public class Parentheses {
 
         int pushCount = 0, popCount=0;
 
+        if(str.isEmpty()){
+            return true;
+        }
+
 
         for(int i=0;i<str.length();i++) {
 
