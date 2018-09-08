@@ -55,7 +55,7 @@ public class Parentheses {
                 stack.push("]");
             }else if(str.charAt(i) == '{'){
                 stack.push("}");
-            }else{
+            }else if(str.charAt(i) != ')' || str.charAt(i) != '}' || str.charAt(i)!=']'){
                 return false;
             }
 
