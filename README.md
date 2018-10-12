@@ -24,6 +24,7 @@ Stop thinking start contributing to leetcode solution
 
 - [ValidSudoku](https://github.com/harmishlakhani/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/ValidSudoku.java)
 - [GroupAnagrams](https://github.com/harmishlakhani/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/GroupAnagrams.java)
+- [NumberOfIslands](https://github.com/harmishlakhani/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/NumberOfIslands.java)
 
 ### Hard
 
