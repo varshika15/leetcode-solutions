@@ -22,10 +22,10 @@ Stop thinking start contributing to leetcode solution
 
 ### Medium
 
-- [ValidSudoku](https://github.com/harmishlakhani/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/ValidSudoku.java)
-- [GroupAnagrams](https://github.com/harmishlakhani/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/GroupAnagrams.java)
-- [NumberOfIslands](https://github.com/harmishlakhani/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/NumberOfIslands.java)
+- [ValidSudoku](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/ValidSudoku.java)
+- [GroupAnagrams](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/GroupAnagrams.java)
+- [NumberOfIslands](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/medium/NumberOfIslands.java)
 
 ### Hard
 
-- [SudokuSolver](https://github.com/harmishlakhani/leetcode-solutions/blob/master/src/main/java/com/techmisal/hard/SudokuSolver.java)
+- [SudokuSolver](https://github.com/pratikpalashikar/leetcode-solutions/blob/master/src/main/java/com/techmisal/hard/SudokuSolver.java)
