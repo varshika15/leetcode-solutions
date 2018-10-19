@@ -5,6 +5,16 @@ package com.techmisal.easy;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+//Input:
+//1 (No. of test cases)
+//3 (No. of keys to be pressed)
+//2 (Key no. 2 pressed)
+//5 (Key no. 5  pressed)
+//7 (Key no. 7  pressed)
+//Output: ajp ajq ajr ajs akp akq akr aks alp alq alr als bjp 
+// 	  bjq bjr bjs bkp bkq bkr bks blp blq blr bls cjp 
+//	  cjq cjr cjs ckp ckq ckr cks clp clq clr cls 
+
 public class Keypad {
 	
 	public static void solve(int arr[], int index, String str[], StringBuilder sb, 
